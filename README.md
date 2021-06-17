@@ -9,4 +9,4 @@
 
 
 [twitter]: https://twitter.com/vkdhiman93
-[linkedin]: www.linkedin.com/in/vivek-kumar-344b9572
+[linkedin]: https://www.linkedin.com/in/vivek-kumar-344b9572/
