@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 
-- 🌱 I’m currently learning **Data Science and allied areas.**
+- 🌱 I’m currently working as a **Data Scientist**
 
-- 💞️ I’m looking to collaborate on different projects related to **Machine Learning & Deep Learning.**
+- 💞️ I’m looking to collaborate on different projects related to **Generative AI, Machine Learning & Deep Learning.**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1mp8Mp75sALyiE1kw4R5lgZ0WXGLJuBHC/view?usp=sharing)
 
